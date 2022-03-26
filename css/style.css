@@ -39,7 +39,6 @@ body {
     border-radius: 10px;
     cursor: pointer
 }
-
 @media(max-width:450px) {
 
     .hero h2,
