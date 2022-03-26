@@ -38,7 +38,7 @@ body {
     background: #666;
     color: #fff;
     border-radius: 10px;
-    cursor: pointer
+    cursor: pointer;
 }
 
 @media(max-width:450px) {
