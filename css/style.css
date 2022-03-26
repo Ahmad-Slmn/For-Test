@@ -43,8 +43,12 @@ body {
 
 @media(max-width:450px) {
 
-    .hero h2,
-    .hero ul {
+    .hero h2 {
         font-size: 15px
+    }
+
+    .hero ul {
+        font-size: 10px;
+        font-weight: bold
     }
 }
