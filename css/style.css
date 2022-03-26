@@ -26,7 +26,8 @@ body {
 .hero ul {
     position: relative;
     left: 25px;
-    line-height: 1.7
+    line-height: 1.7;
+    margin-right: 10px
 }
 
 .hero button {
@@ -39,6 +40,7 @@ body {
     border-radius: 10px;
     cursor: pointer
 }
+
 @media(max-width:450px) {
 
     .hero h2,
